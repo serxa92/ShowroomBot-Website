@@ -31,7 +31,7 @@ Esta es la **landing page** de presentación de ShowroomBot, desarrollada con te
 - 📈 Estadísticas simuladas animadas
 - ⚙️ Integración directa con el bot y su repositorio
 <p align="center">
-  <img src="showroom-bot-website/public/captura.png" alt="Captura de pantalla de ShowroomBot Web" width="700" />
+  <img src="./showroom-bot-website/public/captura.png" alt="Captura de pantalla de ShowroomBot Web" width="800" />
 </p>
 
 
