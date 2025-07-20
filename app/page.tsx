@@ -69,7 +69,7 @@ export default function HomePage() {
             <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
               <TypingAnimation
                 text="Un bot de Discord diseñado para comunidades de programadores y estudiantes que quieren mostrar sus creaciones de manera profesional y organizada."
-                speed={30}
+                speed={40}
               />
             </p>
           </RevealAnimation>
