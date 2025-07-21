@@ -6,6 +6,8 @@ import { FloatingElements } from "@/components/floating-elements"
 import { RevealAnimation } from "@/components/reveal-animation"
 import { TypingAnimation } from "@/components/typing-animation"
 import { AnimatedCounter } from "@/components/animated-counter"
+import Showroom from "@/pages/showroom"
+
 
 export default function HomePage() {
   return (
@@ -300,6 +302,22 @@ export default function HomePage() {
           </RevealAnimation>
         </div>
       </section>
+      <section className="py-20 px-4 bg-white/5 backdrop-blur-xl border-y border-white/10">
+  <div className="container mx-auto">
+    <RevealAnimation>
+      <div className="text-center mb-16">
+        <h2 className="text-4xl font-bold text-white mb-4"> Proyectos de la comunidad</h2>
+        <p className="text-gray-300 text-lg max-w-2xl mx-auto">
+          Estos son los proyectos compartidos por los desarrolladores de la comunidad.
+        </p>
+      </div>
+    </RevealAnimation>
+    <RevealAnimation delay={300}>
+      <Showroom />
+    </RevealAnimation>
+  </div>
+</section>
+
 
       {/* Benefits Section */}
       <section className="py-20 px-4">
