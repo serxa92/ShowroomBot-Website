@@ -50,6 +50,7 @@ export default function RootLayout({
     <html lang="en">
       <head>
         <link rel="icon" href="/favicon.png" type="image/png" />
+        <meta name="google-site-verification" content="PCZFkAFxrHWqttkP04UDdvjBeygrldvPdPYxH-QSH58" />
       </head>
       <body>{children}</body>
     </html>
