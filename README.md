@@ -1,48 +1,45 @@
-# 🌐 ShowroomBot - Web Oficial
+# 🌐 ShowroomBot - Official Website
 
-![Next.js](https://img.shields.io/badge/Next.js-13+-black?logo=nextdotjs)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-Styled-38bdf8?logo=tailwindcss)
-![TypeScript](https://img.shields.io/badge/TypeScript-Strict-blue?logo=typescript)
-![Deploy](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel)
 
-> Página web oficial del bot de Discord **ShowroomBot**: una experiencia visual para comunidades de programadores que quieren compartir sus proyectos con estilo.
+
+> Official website for the Discord bot **ShowroomBot** — a visual experience for developer communities who want to share their projects with style.
+
+---
+<img src="public/captura.png" alt="Desktop preview" width="1200"/>
+
+
+## 🧠 What Is This Website?
+
+This is the **landing page** for ShowroomBot, built with modern technologies such as:
+
+- ⚛️ **Next.js 13+** (`app/` directory)  
+- 🎨 **Tailwind CSS** for responsive and utility-first styling  
+- 💅 **ShadCN UI** for accessible and reusable components  
+- 🔮 **Custom animations** (`RevealAnimation`, `TypingAnimation`, `FloatingElements`)  
+- 📊 **Animated counters** (`AnimatedCounter`)  
+- ✨ *Glassmorphism* design with dynamic backgrounds and blur effects  
 
 ---
 
-## 🧠 ¿Qué es esta web?
+## ✨ Visual Features
 
-Esta es la **landing page** de presentación de ShowroomBot, desarrollada con tecnologías modernas como:
-
-- ⚛️ **Next.js 13+** (`app/` directory)
-- 🎨 **Tailwind CSS** para diseño responsivo y utilitario
-- 💅 **ShadCN UI** para componentes accesibles y reutilizables
-- 🔮 **Animaciones personalizadas** (`RevealAnimation`, `TypingAnimation`, `FloatingElements`)
-- 📊 **Contadores animados** (`AnimatedCounter`)
-- ✨ Diseño *glassmorphism* con fondos dinámicos y blur
+- 💫 Smooth scroll-based animations  
+- 🟣 Buttons with hover effects and elegant transitions  
+- 💡 Clear typography with strong visual hierarchy  
+- 🌌 Backgrounds with blur, gradients, and floating orbs  
+- 📈 Simulated animated statistics  
+- ⚙️ Direct integration with the bot and its repository  
 
 ---
 
-## ✨ Características visuales
+## 🧑‍💻 Author
 
-- 💫 Animaciones suaves al hacer scroll
-- 🟣 Botones con efectos `hover` y transiciones agradables
-- 💡 Tipografía clara con jerarquía visual
-- 🌌 Fondos con `blur`, gradientes y orbes flotantes
-- 📈 Estadísticas simuladas animadas
-- ⚙️ Integración directa con el bot y su repositorio
-
-
+Made with ❤️ by **[Serxa92](https://github.com/serxa92)**  
+Designed for the developer community on Discord.  
 
 ---
 
-## 🧑‍💻 Autor
+## ⚖️ License
 
-Hecho con ❤️ por **[Serxa92](https://github.com/serxa92)**  
-Diseñado para la comunidad de desarrolladores en Discord.
-
----
-
-## ⚖️ Licencia
-
-Este proyecto está publicado bajo licencia **MIT**.
+This project is released under the **MIT License**.
 
